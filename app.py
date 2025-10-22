@@ -5,8 +5,8 @@ import cv2
 from PIL import Image
 
 # --- Page Config ---
-st.set_page_config(page_title="🧩 Semantic Segmentation Viewer", layout="wide")
-st.title("🧩 Semantic Segmentation Viewer (ONNX)")
+st.set_page_config(page_title="🧩 Ear Diagnose System", layout="wide")
+st.title("🧩 Ear Diagnose System: Perforation severity level")
 
 # Custom CSS: make page wider and add border/outline for displayed images (sebelum & sesudah)
 st.markdown(
